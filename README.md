@@ -2,20 +2,22 @@
 
 Olá, eu sou o Rafael Antunes, atualmente cursando o ensino superior em Desenvolvimento Back-end
 
-![download](https://user-images.githubusercontent.com/101059493/210150673-f36a34a2-3ea4-4b96-9e03-b07c1a67458f.jpg)
+![1733823](https://user-images.githubusercontent.com/101059493/210150762-dc6d0c8a-d5ac-4d7a-8630-46fa6056f7db.png)
 
-## Meus hobbies
+Moro em Juiz de Fora - MG 🌐
 
- - Ler
- - Jogar Videogames
- - Assistir filmes e series
+## Meus hobbies 😄
 
-## Atualmente estudando
+ - Ler 📘
+ - Jogar Videogames 🎮
+ - Assistir filmes e series 📽️
+
+## Atualmente estudando 👨‍🎓
 
  - Javascript e Typescript
  - Git e Github
  
-## Contato
+## Contato ☎️
 
   - GitHub @raphajf
   - Email rafael7712013@gmail.com
