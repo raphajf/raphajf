@@ -21,3 +21,4 @@ Moro em Juiz de Fora - MG 🌐
 
   - GitHub @raphajf
   - Email rafael7712013@gmail.com
+  - Linkedin https://www.linkedin.com/in/rafael-antunes-757697222/
